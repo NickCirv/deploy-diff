@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # deploy-diff
 
 See exactly what is about to deploy — file-by-file diff with risk scoring before you ship.
